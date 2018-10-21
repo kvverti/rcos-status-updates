@@ -2,14 +2,9 @@
 
 Discussed and decided upon database schemas for assignments and blocks.
 
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
-
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+Begin to implement pages related to assignments, such as viewing and creating assignments.
 
 ## Anything Blocking?
 
